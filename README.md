@@ -1,7 +1,7 @@
 # Python Training Project
 
 Use this repo if you want to quickly refresh python and stack.
-
+hi
 ## Documentation Index
 
 - [Basic Setup Guide with (UV)](docs/README.md)
